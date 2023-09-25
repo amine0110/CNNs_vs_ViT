@@ -2,8 +2,7 @@
 
 This repository contains the code and notebooks used in the experiment to classify medical images for bone fracture detection and bone age assessment using Convolutional Neural Networks (CNNs) and Vision Transformer (ViT).
 
-![cover](https://github.com/amine0110/CNNs_vs_ViT/assets/37108394/97643884-9215-4b96-babf-c482cc31ddd4)
-
+![cover](https://github.com/amine0110/CNNs_vs_ViT/assets/37108394/f8ecfa40-4aef-43b1-8994-186843d945d4)
 
 ## Table of Contents
 
