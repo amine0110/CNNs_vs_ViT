@@ -1,3 +1,5 @@
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/2i3g52ZGsZI) [![Website](https://img.shields.io/badge/WEBSITE-FFC800.svg?style=for-the-badge&logo=<badge>&logoColor=white)](https://pycad.co/cnns-or-vit-for-medical-imaging/) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
 # CNNs vs ViT - Medical Imaging Classification: Bone Fracture and Bone Age Detection
 
 This repository contains the code and notebooks used in the experiment to classify medical images for bone fracture detection and bone age assessment using Convolutional Neural Networks (CNNs) and Vision Transformer (ViT).
